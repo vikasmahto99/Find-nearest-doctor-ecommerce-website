@@ -1,15 +1,17 @@
 
-# Find Nearest Doctor E-Commerce Website
+# Find the Nearest Doctor E-Commerce Website
 
 Welcome to the "Find Nearest Doctor" e-commerce website project! This project provides a platform for users to locate nearby doctors and schedule appointments online.
 
 ## Project Overview
 
-The "Find Nearest Doctor" website allows users to search for doctors based on their location and specialty. It features an intuitive interface for booking appointments and managing user profiles.
+The "Find Nearest Doctor" website allows users to search for doctors based on their location and speciality. It features an intuitive interface for booking appointments and managing user profiles.
+
+![Doctor](https://github.com/user-attachments/assets/59eb0184-204d-45eb-98b8-015a9e3f2611)
 
 ## Features
 
-- **Doctor Search:** Search for doctors by location and specialty.
+- **Doctor Search:** Search for doctors by location and speciality.
 - **Doctor Profiles:** View detailed profiles, including qualifications and patient reviews.
 - **Appointment Scheduling:** Book and manage appointments online.
 - **User Management:** Create and update user profiles for a personalized experience.
@@ -32,7 +34,7 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the project directory:**
     ```bash
-    cd Find-nearest-doctor-ecommerce-website
+    cd Find-nearest-doctor-e-commerce-website
     ```
 
 3. **Open the project in your browser:**
@@ -40,10 +42,10 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-- **Search for Doctors:** Use the search bar to find doctors based on location and specialty.
+- **Search for Doctors:** Use the search bar to find doctors based on location and speciality.
 - **View Profiles:** Click on a doctor's name to view their profile and details.
 - **Book Appointments:** Select a time slot and book an appointment.
-- **Manage Profile:** Update your personal information and view appointment history.
+- **Manage Profile:** Update your personal information and view your appointment history.
 
 ## Contributing
 
